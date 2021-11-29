@@ -1,6 +1,8 @@
 ### Olá, eu sou o Jonas Sousa!
+:computer: Atualmente, estou estudando Python e Shell Script.<br>
+:penguin: Sou divulgador Linux.<br>
 
-<div align="center">
+<div align="Left">
   <a href="https://github.com/cjs-13">
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=cjs-13&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   &nbsp
