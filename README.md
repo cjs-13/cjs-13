@@ -2,7 +2,6 @@
 :computer: Atualmente, estou estudando Python e Shell Script.<br>
 :pencil: Cursando Bacharelado em Matemática Computacional na UFCA.<br>
 :penguin: Sou divulgador Linux.<br>
-C
 
 <div align="Left">
   <a href="https://github.com/cjs-13">
