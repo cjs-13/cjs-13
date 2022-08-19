@@ -1,7 +1,6 @@
 ### Olá, eu sou o Jonas Sousa!
-:computer: Atualmente, estou estudando Python e Shell Script.<br>
-:pencil: Cursando Bacharelado em Matemática Computacional na UFCA.<br>
-:penguin: Sou divulgador Linux.<br>
+:computer: Atualmente estudo Redes de Computadores, Linux, Python e Shell Script.<br>
+:penguin: Sou divulgador Linux(Cê é Linux).<br>
 
 <div align="Left">
   <a href="https://github.com/cjs-13">
