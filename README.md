@@ -1,6 +1,6 @@
 ### Olá, eu sou o Jonas Sousa!
 
-:computer:  Atualmente estudo Redes de Computadores, Linux, Python e Shell Script.<br>
+:computer:  Curto Redes de Computadores, Linux, Python e Shell Script.<br>
 :penguin:  Sou divulgador Linux e de Softwares Open Source (Cê é Linux).<br>
 
 ##
