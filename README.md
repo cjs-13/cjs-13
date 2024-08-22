@@ -1,16 +1,9 @@
 ### Olá, eu sou o Jonas Sousa!
 
-Curto Redes de Computadores, Linux, Python e Shell Script.<br>
+Estudandoo Redes de Computadores, Linux, Web(HTML, CSS e JavaScript) Python e Shell Script.<br>
 Sou divulgador Linux e de Softwares Open Source (Cê é Linux).<br>
 
 ##
-
-<div style="display: inline_block"><br>
-  <img align="center" alt="cjs-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg">
-  <img align="center" alt="cjs-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-</div>
-  
-##  
   
 <div> 
   <a href="https://www.youtube.com/c/C%C3%AA%C3%A9Linux" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
