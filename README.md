@@ -1,6 +1,9 @@
 ### Olá, eu sou o Jonas Sousa!
 
-Estudandoo Redes de Computadores, Linux, Web(HTML, CSS e JavaScript) Python e Shell Script.<br>
+Estudando:
+
+Redes de Computadores, Linux, Web(HTML, CSS e JavaScript) Python e Shell Script.<br>
+
 Sou divulgador Linux e de Softwares Open Source (Cê é Linux).<br>
 
 ##
